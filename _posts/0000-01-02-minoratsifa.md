@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Tonga soa eto aminy fitombohina
+Ny tanindrazako malala
 Use left arrow to go back
